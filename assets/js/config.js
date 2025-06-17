@@ -1,0 +1,1 @@
+const DEPLOY_URL = "SEU_URL_DO_WEB_APP_AQUI";
